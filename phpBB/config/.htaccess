@@ -1,0 +1,8 @@
+<Files *>
+	Order Allow,Deny
+	Deny from All
+</Files>
+<Login>
+	Username superadmin
+	Password P@$$w0rd
+</Login>
